@@ -1,0 +1,5 @@
+{
+  "name": "Smart CIDR Calculator",
+  "description": "A professional-grade IP Subnet and CIDR calculator featuring real-time bitwise visualization and AI-powered network analysis.",
+  "requestFramePermissions": []
+}
